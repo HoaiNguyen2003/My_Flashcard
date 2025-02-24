@@ -25,7 +25,7 @@ Trang chơi trò chơi : ![alt text](F:\PTUD_CK\Trang_PlayGame.png)
 
 ```
 // Clone Project
-$ git clone https://github.com/P-HamNguye-N203/PTUD_CK.git
+$ git clone https://github.com/HoaiNguyen2003/My_Flashcard.git
 
 // Run code BackEnd api
 $ cd BackEnd
@@ -65,10 +65,10 @@ $ uvicorn app.main:app --reload
 ## THÔNG TIN THÀNH VIÊN
 
 ```
+- 21023751 - Nguyễn Thanh Hoài
 - 21071061 - Trần Quang Vinh
 - 21074741 - Hoàng Ngọc Tân
 - 21104551 - Phạm Chí Nguyên
-- 21023751 - Nguyễn Thanh Hoài
 
 ```
 
